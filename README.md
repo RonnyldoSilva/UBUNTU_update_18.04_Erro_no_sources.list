@@ -10,7 +10,8 @@ Vamos atualizar o sources.list, no terminal abra o sources.list com seu editor, 
 
 Remova todo o conteúdo e adicione o source abaixo:
 
-`#deb cdrom:[Ubuntu 18.04 LTS _Bionic Beaver_ - Release amd64 (20180426)]/ bionic main restricted
+``` 
+#deb cdrom:[Ubuntu 18.04 LTS _Bionic Beaver_ - Release amd64 (20180426)]/ bionic main restricted
 
 # See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
 # newer versions of the distribution.
@@ -60,5 +61,6 @@ deb http://security.ubuntu.com/ubuntu bionic-security main restricted
 deb http://security.ubuntu.com/ubuntu bionic-security universe
 # deb-src http://security.ubuntu.com/ubuntu bionic-security universe
 deb http://security.ubuntu.com/ubuntu bionic-security multiverse
-# deb-src http://security.ubuntu.com/ubuntu bionic-security multiverse`
+# deb-src http://security.ubuntu.com/ubuntu bionic-security multiverse
+```
 
