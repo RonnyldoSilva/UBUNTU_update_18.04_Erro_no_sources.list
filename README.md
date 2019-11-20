@@ -7,3 +7,6 @@ Você instalou o Ubuntu 18.04 e ao atualizar a lista de pacotes ocorre algo pare
 Vamos atualizar o sources.list, no terminal abra o sources.list com seu editor, abaixo utilizei o nano.
 
 `sudo gedit /etc/apt/sources.list`
+
+Remova todo o conteúdo e adicione o source abaixo:
+
