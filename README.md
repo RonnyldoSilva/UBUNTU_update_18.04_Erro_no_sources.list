@@ -64,3 +64,8 @@ deb http://security.ubuntu.com/ubuntu bionic-security multiverse
 # deb-src http://security.ubuntu.com/ubuntu bionic-security multiverse
 ```
 
+Salve e feche o documento.
+
+`sudo apt-get update`
+
+Tudo deve estar funcionando.
