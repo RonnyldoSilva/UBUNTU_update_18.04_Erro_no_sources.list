@@ -30,7 +30,7 @@ deb http://us.archive.ubuntu.com/ubuntu/ bionic universe
 # deb-src http://us.archive.ubuntu.com/ubuntu/ bionic universe
 deb http://us.archive.ubuntu.com/ubuntu/ bionic-updates universe
 # deb-src http://us.archive.ubuntu.com/ubuntu/ bionic-updates universe
-
+ 
 ## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu 
 ## team, and may not be under a free licence. Please satisfy yourself as to 
 ## your rights to use the software. Also, please note that software in 
