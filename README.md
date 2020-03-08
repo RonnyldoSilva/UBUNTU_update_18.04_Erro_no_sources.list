@@ -1,4 +1,4 @@
-# UUBUNTU 18.04: Erro no sources.list
+# UUBUNTU 18.04: Erro no sources.list 
 
 Você instalou o Ubuntu 18.04 e ao atualizar a lista de pacotes ocorre algo parecido com erro abaixo:
 
